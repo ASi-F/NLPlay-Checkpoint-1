@@ -1,5 +1,7 @@
 # NLPlay-Checkpoint-1
 The objective of the first checkpoint was to Implement Sentiment Analysis using Feedforward Network in PyTorch.
+<hr>
+
 ##  Week-1 progress
 - Covered basics libraries for mashine learning like numpy, pandas, matplotlib and pytorch were introduced.
 - Covered resources for basics of python, supervised learning and neural networks were shared.
