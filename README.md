@@ -6,6 +6,7 @@ The objective of the first checkpoint was to Implement Sentiment Analysis using 
 - Covered resources on Natural language processing. Introduced to its thoretical aspects <br>
 - Covered NLTK, a basic library for processing text.
 <hr>
+
 ## Week-2 progress
 - Dived deeper into natural language processing
 - Learnt about word embeddings and its different types
