@@ -1,4 +1,5 @@
-# NLPlay-Checkpoint-1
+# NLPlay with Transformers
+## I - Sentiment Analysis
 The objective of the first checkpoint was to Implement Sentiment Analysis using Feedforward Network in PyTorch.
 <hr>
 
