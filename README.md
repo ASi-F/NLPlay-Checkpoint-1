@@ -2,18 +2,30 @@
 The first phase of the project was to use Natural Language Processing for Sentiment Analysis. This required the knowledge of basic Machine Learning, which was covered in the first week. First we used a simple Feed Forward Neural Network using Bag of Words Vectorizaion to achieve this. Though this is not the most efficient method for sequential data processing, we we layed out here the basis for the preprocessing of our dataset and our evaluation metrics which we will be used to compare the performance of all the models implemented. 
 <hr>
 
-##  Week-1 progress
+##  Phase-1 - Preliminaries
 - Covered basics libraries for mashine learning like numpy, pandas, matplotlib and pytorch.
 - Covered resources for basics of python, supervised learning and neural networks.
 - Covered resources on Natural language processing. Introduced to its thoretical aspects.
 - Covered NLTK, a basic library for processing text.
 - Intoduced to google Colab.
+- Created a neural network model for digit classification on MNIST dataset.
+- Created a Feed Forward Neural Network for sentiment Analysis on he IMDB review dataset consisting of 50,000 reviews. 
+- Created RNN, LSTM and GRU models for sentiment Analysis
 <hr>
 
-## Week-2 progress
-- Dived deeper into natural language processing
-- Learnt about word embeddings and its different types
-- Created a basic Feed Forward Neural Network for semtiment classification.
+## Phase-2 - Transformer for Sentiment 
+- Introduction to concept of Attention and Transformer model architecture.
+- Studued the evolution of the state-of-the-art, and various transformer models.
+- Introduction to Hugging Face Library
+- Implemented BERT base and BERT large for sentiment analyis.
+
+## Phase-3 - Transformer for text generation
+- Introduction to Transfer Learning for language modelling
+- Learnt about the GPT-2 and T5 models usd for sequence to sequence language processing. 
+- Imlemeted GPT-2 and T-5 for text generation on a dataset consisting of various reearch articles, financial articles and Entertainment based Aricles.
+- Used GP-2 and T5 for text generation and calculate the BLEU score for the models ver this dataset.
+
+
 
 ### Neural network for classifying positive and negative reviews trained on an IMDB Dataset consisting of 50,0000 reviews
 - Removed noise(stop words, html tags) from raw data and preprocessed using nltk
