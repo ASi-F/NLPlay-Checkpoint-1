@@ -23,7 +23,7 @@ The first phase of the project was to use Natural Language Processing for Sentim
 - Introduction to Transfer Learning for language modelling
 - Learnt about the GPT-2 and T5 models usd for sequence to sequence language processing. 
 - Imlemeted GPT-2 and T-5 for text generation on a dataset consisting of various reearch articles, financial articles and Entertainment based Aricles.
-- Used GP-2 and T5 for text generation and calculate the BLEU score for the models ver this dataset.
+- Used GPT-2 and T5 for text generation and calculate the BLEU score for the models ver this dataset.
 
 
 
