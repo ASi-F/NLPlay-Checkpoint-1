@@ -8,7 +8,7 @@ This is a learning project on NLP.  The machine learning algorithms and concepts
 The project is divided into 3 phases:
 <hr>
 
-##  Phase-1 - Preliminaries
+##  Phase-1: Preliminaries
 - Introduction to machine learning, basic machine learning tools and libraries.
 - Introduction to `pytorch`.
 - Introduction to NLP.
@@ -17,13 +17,13 @@ The project is divided into 3 phases:
 - Creating `RNN`, `LSTM` and `GRU` models for Sentiment Analysis.
 <hr>
 
-## Phase-2 - Transformer for Sentiment Analysis
+## Phase-2: Transformer for Sentiment Analysis
 - Introduction to concept of Attention and Transformer model architecture.
 - Studued the evolution of the state-of-the-art through models `BERT`, `RoBERTa`, `XLNet` & `DistilBERT`.
 - Introduction to `HuggingFace` Library
 - Implemented BERT base and BERT large for sentiment analysis.
 
-## Phase-3 - Transformer for text generation
+## Phase-3: Transformer for text generation
 - Introduction to Transfer Learning for language modelling.
 - Introduction to `GPT-2` and `T5` models for sequence to sequence language processing. 
 - Imlemeted GPT-2 and T-5 for text generation on a custom made dataset.
