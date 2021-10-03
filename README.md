@@ -24,7 +24,7 @@ The project is divided into 3 phases:
 - Implemented BERT base and BERT large for sentiment analysis.
 <hr>
 
-## Phase-3: Transformer for text generation
+## Phase-3: Transformer for Text Generation
 - Introduction to Transfer Learning for language modelling.
 - Introduction to `GPT-2` and `T5` models for sequence to sequence language processing. 
 - Imlemeted GPT-2 and T-5 for text generation on a custom made dataset.
