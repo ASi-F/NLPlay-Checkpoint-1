@@ -29,7 +29,7 @@ The project is divided into 3 phases:
 - Introduction to `GPT-2` and `T5` models for sequence to sequence language processing. 
 - Imlemeted GPT-2 and T-5 for text generation on a custom made dataset.
 - Used GPT-2 and T5 for text generation and compared their `BLEU` scores for the models on this dataset.
-
+<hr>
 
 
 <!-- ### Neural network for classifying positive and negative reviews trained on an IMDB Dataset consisting of 50,0000 reviews
