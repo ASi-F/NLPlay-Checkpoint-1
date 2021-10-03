@@ -1,5 +1,5 @@
 # NLPlay with Transformers - Sentiment Analysis
-## Mentor - Tezan Sahu
+## Mentor : Tezan Sahu
 The first phase of the project was to use Natural Language Processing for Sentiment Analysis. This required the knowledge of basic Machine Learning, which was covered in the first week. First we used a simple Feed Forward Neural Network using Bag of Words Vectorizaion to achieve this. Though this is not the most efficient method for sequential data processing, we we layed out here the basis for the preprocessing of our dataset and our evaluation metrics which we will be used to compare the performance of all the models implemented. 
 <hr>
 
