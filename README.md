@@ -7,7 +7,7 @@ This is a learning project on NLP and is divided into 3 phases:
 <hr>
 
 ##  Phase-1 - Preliminaries
-- Introduction to python libraries </code>NumPy</code>, pandas, matplotlib and pytorch.
+- Introduction to python libraries <\code>NumPy<\code>, pandas, matplotlib and pytorch.
 - Covered resources for basics of python, supervised learning and neural networks.
 - Covered resources on Natural language processing. Introduced to its thoretical aspects.
 - Covered NLTK, a basic library for processing text.
