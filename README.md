@@ -22,6 +22,7 @@ The project is divided into 3 phases:
 - Studued the evolution of the state-of-the-art through models `BERT`, `RoBERTa`, `XLNet` & `DistilBERT`.
 - Introduction to `HuggingFace` Library
 - Implemented BERT base and BERT large for sentiment analysis.
+<hr>
 
 ## Phase-3: Transformer for text generation
 - Introduction to Transfer Learning for language modelling.
