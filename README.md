@@ -19,15 +19,15 @@ The project is divided into 3 phases:
 
 ## Phase-2 - Transformer for Sentiment Analysis
 - Introduction to concept of Attention and Transformer model architecture.
-- Studued the evolution of the state-of-the-art through models BERT, RoBERTa, XLNet & Distil BERT.
-- Introduction to Hugging Face Library
-- Implemented BERT base and BERT large for sentiment analyis.
+- Studued the evolution of the state-of-the-art through models `BERT`, `RoBERTa`, `XLNet` & `DistilBERT`.
+- Introduction to `HuggingFace` Library
+- Implemented BERT base and BERT large for sentiment analysis.
 
 ## Phase-3 - Transformer for text generation
-- Introduction to Transfer Learning for language modelling
-- Learnt about the GPT-2 and T5 models usd for sequence to sequence language processing. 
-- Imlemeted GPT-2 and T-5 for text generation on a dataset consisting of various reearch articles, financial articles and Entertainment based Aricles.
-- Used GPT-2 and T5 for text generation and calculate the BLEU score for the models ver this dataset.
+- Introduction to Transfer Learning for language modelling.
+- Introduction to `GPT-2` and `T5` models for sequence to sequence language processing. 
+- Imlemeted GPT-2 and T-5 for text generation on a custom made dataset.
+- Used GPT-2 and T5 for text generation and compared their `BLEU` scores for the models on this dataset.
 
 
 
