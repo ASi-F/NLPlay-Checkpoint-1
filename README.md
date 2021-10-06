@@ -20,8 +20,10 @@ The project is divided into 3 phases:
 ## Phase-2: Transformer for Sentiment Analysis
 - Introduction to concept of Attention and Transformer model architecture.
 - Studied the evolution of the state-of-the-art through models `BERT`, `RoBERTa`, `XLNet` & `DistilBERT`.
-- Introduction to `HuggingFace` Library
-- Implemented BERT base and BERT large for sentiment analysis.
+- Introduction to the `HuggingFace` Library.
+- Created sentiment classifiers using `BERT base` and `BERT large`. 
+  - Used the transformer and a 3 layer Feed Forward Neural Network Pipeline.
+  - Jointly trained the Transformer and the FFNN.
 <hr>
 
 ## Phase-3: Transformer for Text Generation
@@ -29,12 +31,3 @@ The project is divided into 3 phases:
 - Imlemeted `GPT-2` and `T-5` for text generation on a custom made dataset.
 - Calculated `BLEU` scores for the generated text for both models.
 <hr>
-
-
-<!-- ### Neural network for classifying positive and negative reviews trained on an IMDB Dataset consisting of 50,0000 reviews
-- Removed noise(stop words, html tags) from raw data and preprocessed using nltk
-- Divided data file into 70% training data and 30% data for testing 
-- Used bag of words vectorization
-- Implemented a feed forward neural network consisting of 2 hidden layers of 500 neurons each.
-- Used ReLU as activation function, cross entropy for loss function and Stochastic Gradient Descent with various batch sizes and learning rates
-- Achieved a maximum accuracy of 87.68 % -->
