@@ -25,10 +25,9 @@ The project is divided into 3 phases:
 <hr>
 
 ## Phase-3: Transformer for Text Generation
-- Introduction to Transfer Learning for language modelling.
 - Introduction to `GPT-2` and `T5` models for sequence to sequence language processing. 
-- Imlemeted GPT-2 and T-5 for text generation on a custom made dataset.
-- Used GPT-2 and T5 for text generation and compared their `BLEU` scores for the models on this dataset.
+- Imlemeted `GPT-2` and `T-5` for text generation on a custom made dataset.
+- Calculated `BLEU` scores for the generated text for both models.
 <hr>
 
 
