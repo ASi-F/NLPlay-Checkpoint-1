@@ -19,7 +19,7 @@ The project is divided into 3 phases:
 
 ## Phase-2: Transformer for Sentiment Analysis
 - Introduction to concept of Attention and Transformer model architecture.
-- Studied the evolution of the state-of-the-art through models `BERT`, `RoBERTa`, `XLNet` & `DistilBERT`.
+- Studied the evolution of the state-of-the-art through models `BERT`, `RoBERTa`, `XLM` & `DistilBERT`.
 - Introduction to the `HuggingFace` Library.
 - Created sentiment classifiers using `BERT base` and `BERT large`. 
   - Used the transformer and a 3 layer Feed Forward Neural Network Pipeline.
